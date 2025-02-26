@@ -1,0 +1,30 @@
+[
+    {
+        "task": "I will pick my first lecture at 8",
+        "completed": false
+    },
+    {
+        "task": "Then I will go for a cigratte",
+        "completed": false
+    },
+    {
+        "task": "I will take bath every morning at 6'O clock",
+        "completed": false
+    },
+    {
+        "task": "when I take off my clothes I should wear new ones",
+        "completed": false,
+        "due_date": "15",
+        "priority": "medium"
+    },
+    {
+        "task": "watch the match",
+        "completed": false,
+        "due_date": "1 march",
+        "priority": "medium"
+    },
+    {
+        "task": "i will sleep around 10 everyday",
+        "completed": true
+    }
+]
